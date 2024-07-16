@@ -1,7 +1,7 @@
 
 # The Impossible Parkour
 
-Parkour game made in Unity within a week, featuring 5 levels. As the name suggests, the game is unnecessarily difficult. Unfortunately, I lost the Unity project a long time ago.
+Parkour game made in Unity within a week, featuring 5 levels. As the name suggests, the game is unnecessarily difficult. Unfortunately, I lost the Unity project a long time ago, so only this build remains.
 
 
 Images from the game:
